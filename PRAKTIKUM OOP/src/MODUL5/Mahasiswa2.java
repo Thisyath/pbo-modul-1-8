@@ -1,5 +1,6 @@
 package MODUL5;
 
+//Program Overloading constructor
 public class Mahasiswa2 {
         private String nama;
         private String nim;
